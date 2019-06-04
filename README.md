@@ -9,13 +9,14 @@
 
 ## Table of Contents
 + [Why must you document your project](#why_document)
-+ [Guidelines](#guidelines)
++ [The DO's and DON'Ts of Documentation](#dos_and_donts)
 + [Templates](https://github.com/kylelobo/The-Documentation-Compendium/tree/master/Templates)
 + [Novice Technical Writers](https://www.writethedocs.org/guide/#new-to-caring-about-documentation)
 + [Experienced Technical Writers](https://www.writethedocs.org/guide/#experienced-documentarian)
 + [API Documentation](https://www.writethedocs.org/guide/#api-documentation)
 + [Tools](https://www.writethedocs.org/guide/#tools-of-the-trade)
 + [Technical Writer Programs](#programs)
++ [Awesome Technical Writing Articles](#articles)
 + [References](#references)
 
 ## Why must you document your project?<a name = "why_document"></a>
@@ -24,7 +25,7 @@
 + You want people to help out. If you don’t have documentation, you will miss out on a whole class of contributors.
 + You want to be a better writer
 
-## Guidelines<a name = "guidelines"></a>
+## The DO's and DON'Ts of Documentation<a name = "dos_and_donts"></a>
 DO'S:
 + Keep a lighthearted friendly tone. Treat the reader as a close friend who doesn't have a lot of knowledge about the topic but is very interested
 + Keep things brief
@@ -42,7 +43,10 @@ DON'TS:
 
 ## Technical Writing Programs <a name = "programs"></a>
 
+## Awesome Technical Writing Articles <a name = "articles"></a>
+1. [My Tech Writing Process - Amruta Ranade](https://amrutaranade.com/2018/03/07/my-writing-process/)
+
 ## References <a name = "references"></a>
-1. [Documenting your projects on GitHub](https://guides.github.com/features/wikis/)
-2. [documentation-handbook](https://github.com/jamiebuilds/documentation-handbook)
-3. [Documentation Guide](https://www.writethedocs.org/guide/)
+1. [Documenting your projects on GitHub by GitHub Guides](https://guides.github.com/features/wikis/)
+2. [documentation-handbook by jamiebuilds](https://github.com/jamiebuilds/documentation-handbook)
+3. [Documentation Guide by Write the Docs](https://www.writethedocs.org/guide/)
