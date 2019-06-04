@@ -49,6 +49,7 @@
 1. [r/technicalwriting](https://www.reddit.com/r/technicalwriting/)
 2. [My Tech Writing Process - Amruta Ranade](https://amrutaranade.com/2018/03/07/my-writing-process/)
 3. [Developer to Technical Writer](https://www.reddit.com/r/technicalwriting/comments/a1x6c8/)
+4. [awesome-github-templates by devspace](https://github.com/devspace/awesome-github-templates)
 
 ## 📚 References <a name = "references"></a>
 1. [Documenting your projects on GitHub by GitHub Guides](https://guides.github.com/features/wikis/)
