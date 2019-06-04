@@ -4,7 +4,7 @@ Good documentation is key to the success of any project. Making documentation ac
 ## Table of Contents
 + [Why must you document your project](#why_document)
 + [Guidelines](#guidelines)
-+ [Templates](https://github.com/kylelobo/The-Documentation-Compendium/Templates)
++ [Templates](https://github.com/kylelobo/The-Documentation-Compendium/tree/master/Templates)
 + [Novice Technical Writers](https://www.writethedocs.org/guide/#new-to-caring-about-documentation)
 + [Experienced Technical Writers](https://www.writethedocs.org/guide/#experienced-documentarian)
 + [API Documentation](https://www.writethedocs.org/guide/#api-documentation)
