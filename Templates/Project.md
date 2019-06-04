@@ -93,7 +93,7 @@ Add additional notes about how to deploy this on a live system.
 
 ## Authors <a name = "authors"></a>
 
-+ [@Kyle Lobo](https://github.com/kylelobo) - Idea & Initial work
++ [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
 
 See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
 
