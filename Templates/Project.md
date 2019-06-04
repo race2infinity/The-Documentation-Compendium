@@ -25,7 +25,7 @@
 + [Deployment](#deployment)
 + [Technology Stack](#tech_stack)
 + [TODO](../TODO.md)
-+ [Contributing](../Contributing.md)
++ [Contributing](../CONTRIBUTING.md)
 + [Authors](#authors)
 + [Acknowledgments](#acknowledgments)
 
