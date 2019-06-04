@@ -1,5 +1,11 @@
 # The Documentation Compendium
-Good documentation is key to the success of any project. Making documentation accessible enables people to learn about a project; helping them to save time while reading / contributing to a project.
+<div align = "center">
+  
+  ![Documentation](https://i.imgur.com/rSyq3MW.png)
+  
+  <p align = "center">Good documentation is key to the success of any project. Making documentation accessible enables people to learn about a project; helping them to save time while reading / contributing to a project.</p>
+
+</div>
 
 ## Table of Contents
 + [Why must you document your project](#why_document)
