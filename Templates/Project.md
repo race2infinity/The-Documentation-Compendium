@@ -24,8 +24,8 @@
 + [Getting Started](#getting_started)
 + [Deployment](#deployment)
 + [Technology Stack](#tech_stack)
-+ [TODO](https://github.com/kylelobo/The-Documentation-Compendium/blob/master/TODO.md)
-+ [Contributing](https://github.com/kylelobo/The-Documentation-Compendium/blob/master/Contributing.md)
++ [TODO](../TODO.md)
++ [Contributing](../Contributing.md)
 + [Authors](#authors)
 + [Acknowledgments](#acknowledgments)
 
