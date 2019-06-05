@@ -9,7 +9,7 @@
   [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
   [![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
   [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
-  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
+  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
 
@@ -27,7 +27,7 @@
 + [TODO](../TODO.md)
 + [Contributing](../CONTRIBUTING.md)
 + [Authors](#authors)
-+ [Acknowledgments](#acknowledgments)
++ [Acknowledgments](#acknowledgement)
 
 ## About <a name = "about"></a>
 Write about 1-2 paragraphs describing the purpose of your project.
@@ -97,7 +97,7 @@ Add additional notes about how to deploy this on a live system.
 
 See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
 
-## Acknowledgments <a name = "acknowledgments"></a>
+## Acknowledgements <a name = "acknowledgement"></a>
 + Hat tip to anyone whose code was used
 + Inspiration
 + References
