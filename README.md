@@ -17,7 +17,7 @@
 + [Tools](https://www.writethedocs.org/guide/#tools-of-the-trade)
 + [Technical Writer Programs](#programs)
 + [Awesome Technical Writing Sources](#sources)
-+ [References](#references)
++ [Acknowledgements](#acknowledgements)
 
 ## 🤔 Why must you document your project?<a name = "why_document"></a>
 + **THE MAJORITY OF PEOPLE GLANCE AND LEAVE.** Make it pretty so that it's easier for them to star before they leave. The more stars you have, the likelier it is that serious developers will use your repo.
@@ -50,8 +50,10 @@
 2. [My Tech Writing Process - Amruta Ranade](https://amrutaranade.com/2018/03/07/my-writing-process/)
 3. [Developer to Technical Writer](https://www.reddit.com/r/technicalwriting/comments/a1x6c8/)
 4. [awesome-github-templates by devspace](https://github.com/devspace/awesome-github-templates)
+5. [makeareadme by dguo](https://www.makeareadme.com/)
+6. [What nobody tells you about documentation by Divio](https://www.divio.com/blog/documentation/)
 
-## 📚 References <a name = "references"></a>
+## 📚 Acknowledgements <a name = "acknowledgements"></a>
 1. [Documenting your projects on GitHub by GitHub Guides](https://guides.github.com/features/wikis/)
 2. [documentation-handbook by jamiebuilds](https://github.com/jamiebuilds/documentation-handbook)
 3. [Documentation Guide by Write the Docs](https://www.writethedocs.org/guide/)
