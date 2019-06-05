@@ -115,7 +115,7 @@ End with an example of getting some data out of the system or using it for a lit
 ## 🚀 Deploying your own bot <a name = "deployment"></a>
 To see an example project on how to deploy your bot, please see my own configuration:
 
-+ **Heroku**: https://github.com/kylelobo/Reddit-Bot#deploying-the-bot-on-heroku-platform-that-allows-you-to-host-your-bot
++ **Heroku**: https://github.com/kylelobo/Reddit-Bot#deploying_the_bot
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 + [PRAW](https://praw.readthedocs.io/en/latest/) - Python Reddit API Wrapper
