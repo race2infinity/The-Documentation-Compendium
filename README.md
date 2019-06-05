@@ -54,6 +54,7 @@
 4. [awesome-github-templates](https://github.com/devspace/awesome-github-templates) - _devspace_
 5. [makeareadme](https://www.makeareadme.com/) - _dguo_
 6. [What nobody tells you about documentation](https://www.divio.com/blog/documentation/) - _Divio_
+7. [What I learned from an old GitHub project that won 3,000 Stars in a Week](https://www.freecodecamp.org/news/what-i-learned-from-an-old-github-project-that-won-3-000-stars-in-a-week-628349a5ee14/) - _TOAST UI_
 
 ## Get Feedback <a name = "feedback"></a>
 - [feedmereadmes](https://github.com/LappleApple/feedmereadmes) - Free README editing + feedback to make your open-source projects grow. See the README maturity model to help you keep going.
