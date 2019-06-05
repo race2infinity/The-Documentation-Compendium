@@ -1,25 +1,33 @@
-<div align = "center">
-  
-  ![Documentation](https://i.imgur.com/rSyq3MW.png)
-  
-  <h3 align="center">The Documentation Compendium</h3>
-  
-  <p align = "center">💡 Various templates & tips on writing high-quality documentation that people want to read.</p>
+<p align="center">
+  <a href="" rel="noopener">
+ <img src="https://i.imgur.com/rSyq3MW.png" alt="The Documentation Compendium"></a>
+</p>
+
+<h3 align="center">The Documentation Compendium</h3>
+
+<div align="center">
+
+  [![Status](https://img.shields.io/badge/status-active-success.svg)]()
+  [![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
+  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
+  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
 
-
 ---
+
+<p align = "center">💡 Various templates & tips on writing high-quality documentation that people want to read.</p>
 
 ## 📝 Table of Contents
 + [Why must you document your project](#why_document)
 + [The DO's and DON'Ts of Documentation](#dos_and_donts)
-+ [Templates](https://github.com/kylelobo/The-Documentation-Compendium/tree/master/Templates)
-+ [Novice Technical Writers](https://www.writethedocs.org/guide/#new-to-caring-about-documentation)
-+ [Experienced Technical Writers](https://www.writethedocs.org/guide/#experienced-documentarian)
-+ [API Documentation](https://www.writethedocs.org/guide/#api-documentation)
-+ [Adding badges](https://github.com/badges/shields/blob/master/README.md#examples)
-+ [Tools](https://www.writethedocs.org/guide/#tools-of-the-trade)
++ [Templates](#templates)
++ The Art of Technical Writing
+  + [Novice Technical Writers](https://www.writethedocs.org/guide/#new-to-caring-about-documentation)
+  + [Experienced Technical Writers](https://www.writethedocs.org/guide/#experienced-documentarian)
+  + [API Documentation](https://www.writethedocs.org/guide/#api-documentation)
+  + [Adding badges](https://github.com/badges/shields/blob/master/README.md#examples)
+  + [Tools](https://www.writethedocs.org/guide/#tools-of-the-trade)
 + [Technical Writer Programs](#programs)
 + [Awesome Technical Writing Sources](#sources)
 + [Get Feedback](#feedback)
@@ -49,6 +57,15 @@ Even if for some reason they have to use it because they have no choice, without
 + Don't use _idioms_. Speak using more formal terms that are well defined. This makes it easier for non-native English speakers and for translations to be written
 + Don't clutter explanations with overly detailed examples
 + Don't use terms that are _offensive_ to any group. There will never be a good reason to
+
+## 📜 Templates <a name = "templates"></a>
++ [README](/README%20Templates)
++ [Pull Request](/PULL_REQUEST_TEMPLATE.md)
++ [Issues](/.github/ISSUE_TEMPLATE)
++ [Contributing](/CONTRIBUTING.md)
++ [Code of Conduct](/CODE_OF_CONDUCT.md)
++ [Coding Guidelines](/CODING_GUIDELINES.md)
++ [Codebase Structure](/CODEBASE_STRUCTURE.md)
 
 ##  👨‍💻 Technical Writing Programs <a name = "programs"></a>
 1. [A List of Open Source Projects with Volunteer Documentation Opportunities](https://www.reddit.com/r/technicalwriting/comments/800a9a/a_list_of_open_source_projects_with_volunteer/)
