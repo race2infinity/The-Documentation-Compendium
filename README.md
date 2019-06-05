@@ -1,11 +1,15 @@
-# The Documentation Compendium
 <div align = "center">
   
   ![Documentation](https://i.imgur.com/rSyq3MW.png)
   
-  <p align = "center">💡 Good documentation is key to the success of any project. Making documentation accessible enables people to learn about a project; helping them to save time while reading / contributing to a project.</p>
+  <h3 align="center">The Documentation Compendium</h3>
+  
+  <p align = "center">💡 Various templates & tips on writing high-quality documentation that people want to read.</p>
 
 </div>
+
+
+---
 
 ## 📝 Table of Contents
 + [Why must you document your project](#why_document)
@@ -22,10 +26,12 @@
 + [Acknowledgements](#acknowledgements)
 
 ## 🤔 Why must you document your project? <a name = "why_document"></a>
-+ **THE MAJORITY OF PEOPLE GLANCE AND LEAVE.** Make it pretty so that it's easier for them to star before they leave. The more stars you have, the likelier it is that serious developers will use your repo.
++ It doesn’t matter how _good_ your software is, because if the documentation is not good enough, people will not use it.
+Even if for some reason they have to use it because they have no choice, without good documentation, they won’t use it _effectively_ or the way you’d like them to
++ THE MAJORITY OF PEOPLE GLANCE AND LEAVE. Make it pretty so that it's easier for them to _star_ before they leave. The more stars you have, the likelier it is that serious developers will use your repo
 + You will be using your code in _6 months_. Code that you wrote 6 months ago is often indistinguishable from code that someone else has written
 + You want people to use your code because you think that others might find it useful. However, people need to _understand why_ your code might be useful for them, before they decide to use it
-+ You want people to _help out_. If you don’t have documentation, you will _miss out_ on a whole class of contributors.
++ You want people to _help out_. If you don’t have documentation, you will _miss out_ on a whole class of contributors
 + You want to be a _better_ writer
 
 ## 🚦 The DO's and DON'Ts of Documentation<a name = "dos_and_donts"></a>
@@ -53,12 +59,12 @@
 3. [Developer to Technical Writer](https://www.reddit.com/r/technicalwriting/comments/a1x6c8/)
 4. [awesome-github-templates](https://github.com/devspace/awesome-github-templates) - _devspace_
 5. [makeareadme](https://www.makeareadme.com/) - _dguo_
-6. [What nobody tells you about documentation](https://www.divio.com/blog/documentation/) - _Divio_
+6. [What nobody tells you about documentation](https://www.divio.com/blog/documentation/) - _Daniele Procida_
 7. [What I learned from an old GitHub project that won 3,000 Stars in a Week](https://www.freecodecamp.org/news/what-i-learned-from-an-old-github-project-that-won-3-000-stars-in-a-week-628349a5ee14/) - _TOAST UI_
 
-## Get Feedback <a name = "feedback"></a>
-- [feedmereadmes](https://github.com/LappleApple/feedmereadmes) - Free README editing + feedback to make your open-source projects grow. See the README maturity model to help you keep going.
-- [maintainer.io](https://maintainer.io/) - Free README standardization and feedback if you click on 'Book an audit'.
+## 🗒️ Get Feedback <a name = "feedback"></a>
+- [feedmereadmes](https://github.com/LappleApple/feedmereadmes) - Free README editing + feedback to make your open-source projects grow. See the README maturity model to help you keep going
+- [maintainer.io](https://maintainer.io/) - Free README standardization and feedback if you click on 'Book an audit'
 
 ## 📚 Acknowledgements <a name = "acknowledgements"></a>
 1. [Documenting your projects on GitHub](https://guides.github.com/features/wikis/) - _GitHub Guides_
