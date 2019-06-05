@@ -40,7 +40,7 @@
 + Don't assume _prior knowledge_ about the topic. If you want to appeal to a large audience, then you are going to have people with very diverse backgrounds
 + Don't use _idioms_. Speak using more formal terms that are well defined. This makes it easier for non-native English speakers and for translations to be written
 + Don't clutter explanations with overly detailed examples
-+ Use terms that are _offensive_ to any group. There will never be a good reason to
++ Don't use terms that are _offensive_ to any group. There will never be a good reason to
 
 ##  👨‍💻 Technical Writing Programs <a name = "programs"></a>
 1. [A List of Open Source Projects with Volunteer Documentation Opportunities](https://www.reddit.com/r/technicalwriting/comments/800a9a/a_list_of_open_source_projects_with_volunteer/)
