@@ -1,8 +1,8 @@
 # Contributing Guide
 
-Contributing to `project_name` is fairly easy. This document shows you how to get started.
+Contributing to The-Documentation-Compendium is fairly easy. This document shows you how to get started.
 
-## Contributing / Submitting changes
+## Submitting changes
 
 - Fork the repo
   - <https://github.com/kylelobo/The-Documentation-Compendium/fork>
