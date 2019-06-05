@@ -2,7 +2,7 @@
   
   ![Documentation](https://i.imgur.com/rSyq3MW.png)
   
-  <h3 align="center">The Documentation Compendium</h3>
+  <h2 align="center">The Documentation Compendium</h2>
   
   <p align = "center">💡 Various templates & tips on writing high-quality documentation that people want to read.</p>
 
