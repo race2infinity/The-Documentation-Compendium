@@ -14,12 +14,14 @@
 + [Novice Technical Writers](https://www.writethedocs.org/guide/#new-to-caring-about-documentation)
 + [Experienced Technical Writers](https://www.writethedocs.org/guide/#experienced-documentarian)
 + [API Documentation](https://www.writethedocs.org/guide/#api-documentation)
++ [Adding badges](https://github.com/badges/shields/blob/master/README.md#examples)
 + [Tools](https://www.writethedocs.org/guide/#tools-of-the-trade)
 + [Technical Writer Programs](#programs)
 + [Awesome Technical Writing Sources](#sources)
++ [Get Feedback](#feedback)
 + [Acknowledgements](#acknowledgements)
 
-## 🤔 Why must you document your project?<a name = "why_document"></a>
+## 🤔 Why must you document your project? <a name = "why_document"></a>
 + **THE MAJORITY OF PEOPLE GLANCE AND LEAVE.** Make it pretty so that it's easier for them to star before they leave. The more stars you have, the likelier it is that serious developers will use your repo.
 + You will be using your code in _6 months_. Code that you wrote 6 months ago is often indistinguishable from code that someone else has written
 + You want people to use your code because you think that others might find it useful. However, people need to _understand why_ your code might be useful for them, before they decide to use it
@@ -47,13 +49,17 @@
 
 ## 🎉 Awesome Technical Writing Sources <a name = "sources"></a>
 1. [r/technicalwriting](https://www.reddit.com/r/technicalwriting/)
-2. [My Tech Writing Process - Amruta Ranade](https://amrutaranade.com/2018/03/07/my-writing-process/)
+2. [My Tech Writing Process](https://amrutaranade.com/2018/03/07/my-writing-process/) - _Amruta Ranade_
 3. [Developer to Technical Writer](https://www.reddit.com/r/technicalwriting/comments/a1x6c8/)
-4. [awesome-github-templates by devspace](https://github.com/devspace/awesome-github-templates)
-5. [makeareadme by dguo](https://www.makeareadme.com/)
-6. [What nobody tells you about documentation by Divio](https://www.divio.com/blog/documentation/)
+4. [awesome-github-templates](https://github.com/devspace/awesome-github-templates) - _devspace_
+5. [makeareadme](https://www.makeareadme.com/) - _dguo_
+6. [What nobody tells you about documentation](https://www.divio.com/blog/documentation/) - _Divio_
+
+## Get Feedback <a name = "feedback"></a>
+- [feedmereadmes](https://github.com/LappleApple/feedmereadmes) - Free README editing + feedback to make your open-source projects grow. See the README maturity model to help you keep going.
+- [maintainer.io](https://maintainer.io/) - Free README standardization and feedback if you click on 'Book an audit'.
 
 ## 📚 Acknowledgements <a name = "acknowledgements"></a>
-1. [Documenting your projects on GitHub by GitHub Guides](https://guides.github.com/features/wikis/)
-2. [documentation-handbook by jamiebuilds](https://github.com/jamiebuilds/documentation-handbook)
-3. [Documentation Guide by Write the Docs](https://www.writethedocs.org/guide/)
+1. [Documenting your projects on GitHub](https://guides.github.com/features/wikis/) - _GitHub Guides_
+2. [documentation-handbook](https://github.com/jamiebuilds/documentation-handbook) - _jamiebuilds_
+3. [Documentation Guide](https://www.writethedocs.org/guide/) - _Write the Docs_
