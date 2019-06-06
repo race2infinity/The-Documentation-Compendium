@@ -24,7 +24,7 @@
 + [About](#about)
 + [Getting Started](#getting_started)
 + [Deployment](#deployment)
-+ [Technology Stack](#tech_stack)
++ [Built Using](#built_using)
 + [TODO](../TODO.md)
 + [Contributing](../CONTRIBUTING.md)
 + [Authors](#authors)
@@ -86,7 +86,7 @@ Give an example
 
 Add additional notes about how to deploy this on a live system.
 
-## ⛏️ Built With <a name = "tech_stack"></a>
+## ⛏️ Built Using <a name = "built_using"></a>
 + [MongoDB](https://www.mongodb.com/) - Database
 + [Express](https://expressjs.com/) - Server Framework
 + [VueJs](https://vuejs.org/) - Web Framework
