@@ -66,6 +66,7 @@ Even if for some reason they have to use it because they have no choice, without
 + [Code of Conduct](/CODE_OF_CONDUCT.md)
 + [Coding Guidelines](/CODING_GUIDELINES.md)
 + [Codebase Structure](/CODEBASE_STRUCTURE.md)
++ [TODO](/TODO.md)
 
 ##  👨‍💻 Technical Writing Programs <a name = "programs"></a>
 1. [A List of Open Source Projects with Volunteer Documentation Opportunities](https://www.reddit.com/r/technicalwriting/comments/800a9a/a_list_of_open_source_projects_with_volunteer/)
