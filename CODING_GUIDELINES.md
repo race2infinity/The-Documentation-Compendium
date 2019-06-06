@@ -20,4 +20,3 @@
 + Changes in functionality must be accompanied by their respective new / modified tests.
 + Exceptions must be used to report erroneous states. The use of functions that return true / false is allowed when they are expected values.
 + Use [RAII] (http://en.wikipedia.org/wiki/Resource_Acquisition_Is_Initialization) when appropriate, mainly in the administration of resources (files, etc ...)
-+ Any other another rule...
