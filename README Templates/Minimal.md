@@ -1,4 +1,6 @@
-# Table of Contents
+# Project Title
+
+## Table of Contents
 + [About](#about)
 + [Getting Started](#getting_started)
 + [Usage](#usage)
