@@ -25,7 +25,7 @@
 + [About](#about)
 + [Demo / Working](#demo)
 + [How it works](#working)
-+ [Basic Usage](#usage)
++ [Usage](#usage)
 + [Getting Started](#getting_started)
 + [Deploying your own bot](#deployment)
 + [Built Using](#built_using)
@@ -40,7 +40,7 @@ Write about 1-2 paragraphs describing the purpose of your bot.
 ## 🎥 Demo / Working <a name = "demo"></a>
 ![Working](https://media.giphy.com/media/20NLMBm0BkUOwNljwv/giphy.gif)
 
-## How it works <a name = "working"></a>
+## 💭 How it works <a name = "working"></a>
 
 The bot first extracts the word from the comment and then fetches word definitions, part of speech, example and source from the Oxford Dictionary API.
 
@@ -50,7 +50,7 @@ The bot uses the Pushshift API to fetch comments, PRAW module to reply to commen
 
 The entire bot is written in Python 3.6
 
-## Basic Usage <a name = "usage"></a>
+## 🎈 Usage <a name = "usage"></a>
 
 To use the bot, type:
 ```
