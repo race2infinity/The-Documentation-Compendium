@@ -17,7 +17,7 @@
 
 ---
 
-<p align="center"> Few lines describing what your bot does.
+<p align="center"> 🤖 Few lines describing what your bot does.
     <br> 
 </p>
 
