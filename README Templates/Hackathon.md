@@ -20,7 +20,7 @@
     <br> 
 </p>
 
-# Table of Contents
+## Table of Contents
 + [Problem Statement](#problem_statement)
 + [Idea / Solution](#idea)
 + [Dependencies / Limitations](#limitations)
