@@ -21,7 +21,7 @@
     <br> 
 </p>
 
-# 📝 Table of Contents
+## 📝 Table of Contents
 + [About](#about)
 + [Demo / Working](#demo)
 + [How it works](#working)
