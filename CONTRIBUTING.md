@@ -1,6 +1,7 @@
 # Contributing Guide
 
-Contributing to The-Documentation-Compendium is fairly easy. This document shows you how to get started.
+- Contributing to The Documentation Compendium is fairly easy. This document shows you how to get started.
+- The [Codebase Structure](/CODEBASE_STRUCTURE.md) has detailed information about how the various files in this project are structured.
 
 ## Submitting changes
 
