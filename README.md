@@ -66,7 +66,7 @@ Even if for some reason they have to use it because they have no choice, without
 **❌ Things you should avoid:**
 
 - Don't assume prior knowledge about the topic. If you want to appeal to a large audience, then you are going to have people with very diverse backgrounds
-- Don't use idioms. Speak using more formal terms that are well defined. This makes it easier for non-native English speakers and for translations to be written
+- Don't use idioms. Write using more formal terms that are well defined. This makes it easier for non-native English speakers and for translations to be written
 - Don't clutter explanations with overly detailed examples
 - Don't use terms that are offensive to any group. There will never be a good reason to
 
