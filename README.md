@@ -111,6 +111,8 @@ Even if for some reason they have to use it because they have no choice, without
 2. [documentation-handbook](https://github.com/jamiebuilds/documentation-handbook) - _jamiebuilds_
 3. [Documentation Guide](https://www.writethedocs.org/guide/) - _Write the Docs_
 
+## 📦 CGX CLI
+[CGX](https://github.com/jeroenouw/cgx) - Generate all the recommended documentation/files (pre-filled) for the Github and Gitlab community standards. (Issue templates, code of conduct, etc)
 
 ## ✋ P.S. <a name = "ps"></a>
 
