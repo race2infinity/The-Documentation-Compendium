@@ -27,6 +27,7 @@
 - [Why must you document your project](#why_document)
 - [Best Practices](#best_practices)
 - [Templates](#templates)
+  - [CGX CLI: Template generator](https://github.com/jeroenouw/cgx)
 - The Art of Technical Writing
   - [Novice Technical Writers](https://www.writethedocs.org/guide/#new-to-caring-about-documentation)
   - [Experienced Technical Writers](https://www.writethedocs.org/guide/#experienced-documentarian)
@@ -82,6 +83,9 @@ Even if for some reason they have to use it because they have no choice, without
 - [Codebase Structure](/CODEBASE_STRUCTURE.md)
 - [TODO](/TODO.md)
 
+**📦 CGX CLI: Template generator:**
+
+[CGX](https://github.com/jeroenouw/cgx) - Generate all the recommended documentation/files (pre-filled) for the Github and Gitlab community standards. (Issue templates, code of conduct, etc)
 
 ##  👨‍💻 Technical Writing Programs <a name = "programs"></a>
 
@@ -111,8 +115,6 @@ Even if for some reason they have to use it because they have no choice, without
 2. [documentation-handbook](https://github.com/jamiebuilds/documentation-handbook) - _jamiebuilds_
 3. [Documentation Guide](https://www.writethedocs.org/guide/) - _Write the Docs_
 
-## 📦 CGX CLI
-[CGX](https://github.com/jeroenouw/cgx) - Generate all the recommended documentation/files (pre-filled) for the Github and Gitlab community standards. (Issue templates, code of conduct, etc)
 
 ## ✋ P.S. <a name = "ps"></a>
 
