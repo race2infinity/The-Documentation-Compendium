@@ -83,9 +83,10 @@ Even if for some reason they have to use it because they have no choice, without
 - [Codebase Structure](/CODEBASE_STRUCTURE.md)
 - [TODO](/TODO.md)
 
-**📦 CGX CLI: Template generator:**
+**📦 CGX CLI - a template generator:**
 
-[CGX](https://github.com/jeroenouw/cgx) - Generate all the recommended documentation/files (pre-filled) for the Github and Gitlab community standards. (Issue templates, code of conduct, etc)
+[CGX](https://github.com/jeroenouw/cgx) - Generate all the recommended documentation / files (pre-filled) for the GitHub and GitLab community standards. (Issue templates, code of conduct, etc.)
+  
 
 ##  👨‍💻 Technical Writing Programs <a name = "programs"></a>
 
