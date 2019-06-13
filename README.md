@@ -27,7 +27,6 @@
 - [Why must you document your project](#why_document)
 - [Best Practices](#best_practices)
 - [Templates](#templates)
-  - [CGX CLI: Template generator](https://github.com/jeroenouw/cgx)
 - The Art of Technical Writing
   - [Novice Technical Writers](https://www.writethedocs.org/guide/#new-to-caring-about-documentation)
   - [Experienced Technical Writers](https://www.writethedocs.org/guide/#experienced-documentarian)
