@@ -101,6 +101,11 @@ Even if for some reason they have to use it because they have no choice, without
 5. [makeareadme](https://www.makeareadme.com/) - _dguo_
 6. [What nobody tells you about documentation](https://www.divio.com/blog/documentation/) - _Daniele Procida_
 7. [What I learned from an old GitHub project that won 3,000 Stars in a Week](https://www.freecodecamp.org/news/what-i-learned-from-an-old-github-project-that-won-3-000-stars-in-a-week-628349a5ee14/) - _TOAST UI_
+8. [3 Essential Components of Great Documentation](https://dev.to/eli/3-essential-components-of-great-documentation-2cih) - _Eli B_
+9. [Inspiring techies to become great writers](http://cameronshorter.blogspot.com/2019/02/inspiring-techies-to-become-great.html) - _Cameron Shorter_
+10. [Technical Documentation Writing Principles](http://cameronshorter.blogspot.com/2018/06/technical-documentation-writing.html) - _Cameron Shorter_
+11. [Building Our Documentation Site on platformOS — Part 2: Content Production and Layouts](https://www.platformos.com/blog/post/blog/building-our-documentation-site-on-platformos-part-2-content-production-and-layouts) - _Diana Lakatos_
+12. [Twitter thread on words to avoid when writing documentation](https://twitter.com/JessTelford/status/992756386160234497) - _Jess Telford_
 
 
 ## 🗒️ Get Feedback <a name = "feedback"></a>
@@ -118,4 +123,5 @@ Even if for some reason they have to use it because they have no choice, without
 
 ## ✋ P.S. <a name = "ps"></a>
 
-This repo is under active development. If you have any improvements / suggestions please file an [issue](https://github.com/kylelobo/The-Documentation-Compendium/issues/new/choose) or send in a [Pull Request](/CONTRIBUTING.md). The [TODO.md](/TODO.md) file or the [issues](https://github.com/kylelobo/The-Documentation-Compendium/issues) page are a good place to visit if you want to pick up some task. They have a list of things are to be implemented in the near future.
+- This repo is under active development. If you have any improvements / suggestions please file an [issue](https://github.com/kylelobo/The-Documentation-Compendium/issues/new/choose) or send in a [Pull Request](/CONTRIBUTING.md)
+- The [TODO.md](/TODO.md) file or the [issues](https://github.com/kylelobo/The-Documentation-Compendium/issues) page are a good place to visit if you want to pick up some task. They have a list of things are to be implemented in the near future
