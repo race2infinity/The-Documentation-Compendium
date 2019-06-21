@@ -106,6 +106,7 @@ Even if for some reason they have to use it because they have no choice, without
 10. [Technical Documentation Writing Principles](http://cameronshorter.blogspot.com/2018/06/technical-documentation-writing.html) - _Cameron Shorter_
 11. [Building Our Documentation Site on platformOS — Part 2: Content Production and Layouts](https://www.platformos.com/blog/post/blog/building-our-documentation-site-on-platformos-part-2-content-production-and-layouts) - _Diana Lakatos_
 12. [Twitter thread on words to avoid when writing documentation](https://twitter.com/JessTelford/status/992756386160234497) - _Jess Telford_
+13. [Google Developer Documentation Style Guide](https://developers.google.com/style/) - _Google_
 
 
 ## 🗒️ Get Feedback <a name = "feedback"></a>
