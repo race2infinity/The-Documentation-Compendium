@@ -22,7 +22,7 @@
 <p align = "center">💡 Various templates & tips on writing high-quality documentation that people want to read.</p>
 
 
-## 📝 Table of Contents
+## Table of Contents
 
 - [Why must you document your project](#why_document)
 - [Best Practices](#best_practices)
@@ -39,10 +39,10 @@
 - [Acknowledgements](#acknowledgements)
 
 
-## 🤔 Why must you document your project? <a name = "why_document"></a>
+## Why must you document your project? <a name = "why_document"></a>
 
 - It doesn’t matter how good your software is, because if the documentation is not good enough, people will not use it.
-Even if for some reason they have to use it because they have no choice, without good documentation, they won’t use it effectively or the way you’d like them to
+Even if for some reason they have to use it, without good documentation, they won’t use it effectively or the way you’d like them to
 - THE MAJORITY OF PEOPLE GLANCE AND LEAVE. Make it pretty so that it's easier for them to star before they leave. The more stars you have, the likelier it is that serious developers will use your repo
 - You will be using your code in 6 months. Code that you wrote 6 months ago is often indistinguishable from code that someone else has written
 - You want people to use your code because you think that others might find it useful. However, people need to understand why your code might be useful for them, before they decide to use it
@@ -50,20 +50,20 @@ Even if for some reason they have to use it because they have no choice, without
 - You want to be a better writer
 
 
-## 📢 Best Practices<a name = "best_practices"></a>
+## Best Practices<a name = "best_practices"></a>
 
-**✔️ Things to remember:**
+**Things to remember:**
 
 - Keep a lighthearted friendly tone. Treat the reader as someone who doesn't have a lot of knowledge about the topic but is very interested
 - Keep things brief
 - Use headings frequently. This breaks things up when reading and often it is good for linking to specific information
-- Link to other places in the documentation often but only for additional information. Readers should not have to navigate through several pages to find the information that they need about one specific thing. Just inline the immediately relevant information and link off if they want to know more
+- Link to other places in the documentation often but only for additional information. Readers should not have to navigate through several pages to find information regarding one specific thing. Just inline the immediately relevant information and link off if they want to know more
 - Use as many code snippets, CLI, etc. examples as possible. Show the reader what you mean
 - Gently introduce a guide before diving into technical details. This gives context and readers are more likely to stay engaged longer
 - It is always good to describe the functionality of the various files in your project
-- Always use gender-neutral pronouns. A gender-neutral pronoun is a pronoun which does not associate a gender with the individual who is being discussed. For eg. - using 'they' instead of 'he / she'
+- Always use gender-neutral pronouns. A gender-neutral pronoun is a pronoun which does not associate a gender with the individual who is being discussed. For eg. - using 'they' instead of 'he/she'
 
-**❌ Things you should avoid:**
+**Things you should avoid:**
 
 - Don't assume prior knowledge about the topic. If you want to appeal to a large audience, then you are going to have people with very diverse backgrounds
 - Don't use idioms. Write using more formal terms that are well defined. This makes it easier for non-native English speakers and for translations to be written
@@ -71,7 +71,7 @@ Even if for some reason they have to use it because they have no choice, without
 - Don't use terms that are offensive to any group. There will never be a good reason to
 
 
-## 📜 Templates <a name = "templates"></a>
+## Templates <a name = "templates"></a>
 
 - [README](/README%20Templates)
 - [Pull Request](/PULL_REQUEST_TEMPLATE.md)
@@ -81,48 +81,44 @@ Even if for some reason they have to use it because they have no choice, without
 - [Coding Guidelines](/CODING_GUIDELINES.md)
 - [Codebase Structure](/CODEBASE_STRUCTURE.md)
 - [TODO](/TODO.md)
-
-**📦 CGX CLI - a template generator:**
-
-[CGX](https://github.com/jeroenouw/cgx) - Generate all the recommended documentation / files (pre-filled) for the GitHub and GitLab community standards. (Issue templates, code of conduct, etc.)
   
 
-##  👨‍💻 Technical Writing Programs <a name = "programs"></a>
+## Technical Writing Programs <a name = "programs"></a>
 
-1. [A List of Open Source Projects with Volunteer Documentation Opportunities](https://www.reddit.com/r/technicalwriting/comments/800a9a/a_list_of_open_source_projects_with_volunteer/)
+1. [Google Season of Docs](https://developers.google.com/season-of-docs/)
+2. [A List of Open Source Projects with Volunteer Documentation Opportunities](https://www.reddit.com/r/technicalwriting/comments/800a9a/a_list_of_open_source_projects_with_volunteer/)
 
 
-## 🎉 Awesome Technical Writing Sources <a name = "sources"></a>
+## Awesome Technical Writing Sources <a name = "sources"></a>
 
 1. [r/technicalwriting](https://www.reddit.com/r/technicalwriting/)
-2. [My Tech Writing Process](https://amrutaranade.com/2018/03/07/my-writing-process/) - _Amruta Ranade_
-3. [Developer to Technical Writer](https://www.reddit.com/r/technicalwriting/comments/a1x6c8/) - _r/technicalwriting_
-4. [awesome-github-templates](https://github.com/devspace/awesome-github-templates) - _devspace_
-5. [makeareadme](https://www.makeareadme.com/) - _dguo_
-6. [What nobody tells you about documentation](https://www.divio.com/blog/documentation/) - _Daniele Procida_
-7. [What I learned from an old GitHub project that won 3,000 Stars in a Week](https://www.freecodecamp.org/news/what-i-learned-from-an-old-github-project-that-won-3-000-stars-in-a-week-628349a5ee14/) - _TOAST UI_
-8. [3 Essential Components of Great Documentation](https://dev.to/eli/3-essential-components-of-great-documentation-2cih) - _Eli B_
-9. [Inspiring techies to become great writers](http://cameronshorter.blogspot.com/2019/02/inspiring-techies-to-become-great.html) - _Cameron Shorter_
-10. [Technical Documentation Writing Principles](http://cameronshorter.blogspot.com/2018/06/technical-documentation-writing.html) - _Cameron Shorter_
-11. [Building Our Documentation Site on platformOS — Part 2: Content Production and Layouts](https://www.platformos.com/blog/post/blog/building-our-documentation-site-on-platformos-part-2-content-production-and-layouts) - _Diana Lakatos_
-12. [Twitter thread on words to avoid when writing documentation](https://twitter.com/JessTelford/status/992756386160234497) - _Jess Telford_
-13. [Google Developer Documentation Style Guide](https://developers.google.com/style/) - _Google_
+2. [My Tech Writing Process](https://amrutaranade.com/2018/03/07/my-writing-process/) - Amruta Ranade
+3. [Developer to Technical Writer](https://www.reddit.com/r/technicalwriting/comments/a1x6c8/) - r/technicalwriting
+4. [awesome-github-templates](https://github.com/devspace/awesome-github-templates) - devspace
+5. [makeareadme](https://www.makeareadme.com/) - dguo
+6. [What nobody tells you about documentation](https://www.divio.com/blog/documentation/) - Daniele Procida
+7. [3 Essential Components of Great Documentation](https://dev.to/eli/3-essential-components-of-great-documentation-2cih) - Eli B
+8. [Inspiring techies to become great writers](http://cameronshorter.blogspot.com/2019/02/inspiring-techies-to-become-great.html) - Cameron Shorter
+9. [Technical Documentation Writing Principles](http://cameronshorter.blogspot.com/2018/06/technical-documentation-writing.html) - Cameron Shorter
+10. [Building Our Documentation Site on platformOS — Part 2: Content Production and Layouts](https://www.platformos.com/blog/post/blog/building-our-documentation-site-on-platformos-part-2-content-production-and-layouts) - Diana Lakato
+11. [Google Developer Documentation Style Guide](https://developers.google.com/style/) - Google
+12. [README Maturity Model](https://github.com/LappleApple/feedmereadmes/blob/master/README-maturity-model.md) - LappleApple
 
 
-## 🗒️ Get Feedback <a name = "feedback"></a>
+## Get Feedback <a name = "feedback"></a>
 
 - [feedmereadmes](https://github.com/LappleApple/feedmereadmes) - Free README editing + feedback to make your open-source projects grow. See the README maturity model to help you keep going
 - [maintainer.io](https://maintainer.io/) - Free README standardization and feedback if you click on 'Book an audit'
 
 
-## 🎊 Acknowledgements <a name = "acknowledgements"></a>
+## Acknowledgements <a name = "acknowledgements"></a>
 
-1. [Documenting your projects on GitHub](https://guides.github.com/features/wikis/) - _GitHub Guides_
-2. [documentation-handbook](https://github.com/jamiebuilds/documentation-handbook) - _jamiebuilds_
-3. [Documentation Guide](https://www.writethedocs.org/guide/) - _Write the Docs_
+1. [Documenting your projects on GitHub](https://guides.github.com/features/wikis/) - GitHub Guides
+2. [documentation-handbook](https://github.com/jamiebuilds/documentation-handbook) - jamiebuilds
+3. [Documentation Guide](https://www.writethedocs.org/guide/) - Write the Docs
 
 
-## ✋ P.S. <a name = "ps"></a>
+## P.S. <a name = "ps"></a>
 
 - This repo is under active development. If you have any improvements / suggestions please file an [issue](https://github.com/kylelobo/The-Documentation-Compendium/issues/new/choose) or send in a [Pull Request](/CONTRIBUTING.md)
 - The [TODO.md](/TODO.md) file or the [issues](https://github.com/kylelobo/The-Documentation-Compendium/issues) page are a good place to visit if you want to pick up some task. They have a list of things are to be implemented in the near future
