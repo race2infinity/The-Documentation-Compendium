@@ -1,5 +1,4 @@
 <p align="center">
-  <a href="" rel="noopener">
  <img src="https://i.imgur.com/rSyq3MW.png" alt="The Documentation Compendium"></a>
 </p>
 
@@ -103,6 +102,7 @@ Even if for some reason they have to use it, without good documentation, they wo
 10. [Building Our Documentation Site on platformOS — Part 2: Content Production and Layouts](https://www.platformos.com/blog/post/blog/building-our-documentation-site-on-platformos-part-2-content-production-and-layouts) - Diana Lakato
 11. [Google Developer Documentation Style Guide](https://developers.google.com/style/) - Google
 12. [README Maturity Model](https://github.com/LappleApple/feedmereadmes/blob/master/README-maturity-model.md) - LappleApple
+13. [Markdown Style Guide](http://www.cirosantilli.com/markdown-style-guide/) - Ciro Santilli
 
 
 ## Get Feedback <a name = "feedback"></a>
