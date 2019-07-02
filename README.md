@@ -79,6 +79,7 @@ Even if for some reason they have to use it, without good documentation, they wo
 - [Code of Conduct](/CODE_OF_CONDUCT.md)
 - [Coding Guidelines](/CODING_GUIDELINES.md)
 - [Codebase Structure](/CODEBASE_STRUCTURE.md)
+- [Changelog](/CHANGELOG.md)
 - [TODO](/TODO.md)
   
 
