@@ -13,7 +13,7 @@
 - Check out a new branch based and name it to what you intend to do:
   - Example:
     ````
-    $ git checkout -b BRANCH_NAME feature/fooBar
+    $ git checkout -b BRANCH_NAME
     ````
     If you get an error, you may need to fetch fooBar first by using
     ````
@@ -31,7 +31,7 @@
 - Push to the branch
   - Example:
     ````
-    $ git push origin feature/fooBar
+    $ git push origin BRANCH_NAME
     ````
 - Make a pull request
   - Make sure you send the PR to the <code>fooBar</code> branch
