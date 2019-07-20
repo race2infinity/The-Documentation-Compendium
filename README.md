@@ -133,7 +133,7 @@ Even if for some reason they have to use it, without good documentation, they wo
   <br />
   To the extent possible under law,
   <a rel="dct:publisher"
-     href="https://github.com/kylelobo/The-Documentation-Compendium">
+     href="https://github.com/kylelobo/">
     <span property="dct:title">Kyle Lobo</span></a>
   has waived all copyright and related or neighboring rights to
   <span property="dct:title">The Documentation Compendium</span>.
