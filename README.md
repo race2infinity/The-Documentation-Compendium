@@ -137,8 +137,4 @@ Even if for some reason they have to use it, without good documentation, they wo
     <span property="dct:title">Kyle Lobo</span></a>
   has waived all copyright and related or neighboring rights to
   <span property="dct:title">The Documentation Compendium</span>.
-This work is published from:
-<span property="vcard:Country" datatype="dct:ISO3166"
-      content="IN" about="https://github.com/kylelobo/The-Documentation-Compendium">
-  India</span>.
 </p>
