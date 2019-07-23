@@ -72,15 +72,15 @@ Even if for some reason they have to use it, without good documentation, they wo
 
 ## Templates <a name = "templates"></a>
 
-- [README](/README%20Templates)
-- [Pull Request](/PULL_REQUEST_TEMPLATE.md)
-- [Issues](/.github/ISSUE_TEMPLATE)
-- [Contributing](/CONTRIBUTING.md)
-- [Code of Conduct](/CODE_OF_CONDUCT.md)
-- [Coding Guidelines](/CODING_GUIDELINES.md)
-- [Codebase Structure](/CODEBASE_STRUCTURE.md)
-- [Changelog](/CHANGELOG.md)
-- [TODO](/TODO.md)
+- [README](/en/README_TEMPLATES)
+- [Pull Request](/en/PULL_REQUEST_TEMPLATE.md)
+- [Issues](/en/ISSUE_TEMPLATES)
+- [Contributing](/en/CONTRIBUTING.md)
+- [Code of Conduct](/en/CODE_OF_CONDUCT.md)
+- [Coding Guidelines](/en/CODING_GUIDELINES.md)
+- [Codebase Structure](/en/CODEBASE_STRUCTURE.md)
+- [Changelog](/en/CHANGELOG.md)
+- [TODO](/en/TODO.md)
   
 
 ## Technical Writing Programs <a name = "programs"></a>
@@ -121,8 +121,8 @@ Even if for some reason they have to use it, without good documentation, they wo
 
 ## P.S. <a name = "ps"></a>
 
-- This repo is under active development. If you have any improvements / suggestions please file an [issue](https://github.com/kylelobo/The-Documentation-Compendium/issues/new/choose) or send in a [Pull Request](/CONTRIBUTING.md)
-- The [TODO.md](/TODO.md) file or the [issues](https://github.com/kylelobo/The-Documentation-Compendium/issues) page are a good place to visit if you want to pick up some task. They have a list of things are to be implemented in the near future
+- This repo is under active development. If you have any improvements / suggestions please file an [issue](https://github.com/kylelobo/The-Documentation-Compendium/issues/new/choose) or send in a [Pull Request](/en/CONTRIBUTING.md)
+- The [TODO.md](/en/TODO.md) file or the [issues](https://github.com/kylelobo/The-Documentation-Compendium/issues) page are a good place to visit if you want to pick up some task. They have a list of things are to be implemented in the near future
 
 
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
