@@ -1,0 +1,6 @@
+### TODO
+
+---
+
+- [ ] Traducir plantillas
+
