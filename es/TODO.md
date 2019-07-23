@@ -2,5 +2,5 @@
 
 ---
 
-- [ ] Traducir plantillas
+- [ ] переводить шаблоны
 
