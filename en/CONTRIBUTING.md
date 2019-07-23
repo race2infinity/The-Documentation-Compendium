@@ -3,8 +3,8 @@
 - Contributing to The Documentation Compendium is fairly easy. This document shows you how to get started
 
 ## General
-- The [Codebase Structure](/CODEBASE_STRUCTURE.md) has detailed information about how the various files in this project are structured
-- Please ensure that any changes you make are in accordance with the [Coding Guidelines](/CODING_GUIDELINES.md) of this repo
+- The [Codebase Structure](./CODEBASE_STRUCTURE.md) has detailed information about how the various files in this project are structured
+- Please ensure that any changes you make are in accordance with the [Coding Guidelines](./CODING_GUIDELINES.md) of this repo
 
 ## Submitting changes
 
