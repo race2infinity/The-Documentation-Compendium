@@ -9,7 +9,7 @@
 
   [![Status](https://img.shields.io/badge/status-active-success.svg)]()
   [![Platform](https://img.shields.io/badge/platform-reddit-orange.svg)](https://www.reddit.com/user/Wordbook_Bot)
-  [![GitHub Issues](https:/img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
+  [![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
   [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
@@ -21,7 +21,7 @@
     <br> 
 </p>
 
-## 📝 Table of Contents
+## 📝 Índice
 + [Sobre](#sobre)
 + [Demonstração / Protótipo](#demonstracao)
 + [Como Funciona](#como_funciona)
@@ -117,7 +117,7 @@ Confira um exemplo de como realizar o deployment de seu bot, estas são as minha
 
 + **Heroku**: https://github.com/kylelobo/Reddit-Bot#deploying_the_bot
 
-## ⛏️ Contruído Usando <a name = "construido_usando"></a>
+## ⛏️ Feito Com <a name = "construido_usando"></a>
 + [PRAW](https://praw.readthedocs.io/en/latest/) - Python Reddit API Wrapper
 + [Heroku](https://www.heroku.com/) - Plataforma de Hospedagem SaaS
 
