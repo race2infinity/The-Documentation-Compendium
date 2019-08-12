@@ -28,7 +28,7 @@
 + [Uso](#uso)
 + [Primeiros Passos](#primeiros_passos)
 + [Realizando o Deploying de Seu Próprio Bot](#deployment)
-+ [Contruído Usando](#construido_usando)
++ [Feito Com](#feito_com)
 + [TODO](../TODO.md)
 + [Contribuiçōes](../CONTRIBUTING.md)
 + [Autores](#autores)
@@ -117,7 +117,7 @@ Confira um exemplo de como realizar o deployment de seu bot, estas são as minha
 
 + **Heroku**: https://github.com/kylelobo/Reddit-Bot#deploying_the_bot
 
-## ⛏️ Feito Com <a name = "construido_usando"></a>
+## ⛏️ Feito Com <a name = "feito_com"></a>
 + [PRAW](https://praw.readthedocs.io/en/latest/) - Python Reddit API Wrapper
 + [Heroku](https://www.heroku.com/) - Plataforma de Hospedagem SaaS
 
