@@ -69,13 +69,13 @@ Descreva como utilizar seu app ou sistema.
 ## 🚀 Realizando o Deploying <a name = "deployment"></a>
 Descreva como realizar o deployment de seu projeto.
 
-## ⛏️ Contruído Usando <a name = "construido_usando"></a>
+## ⛏️ Feito Com <a name = "feito_com"></a>
 - [MongoDB](https://www.mongodb.com/) - Database
 - [Express](https://expressjs.com/) - Server Framework
 - [VueJs](https://vuejs.org/) - Web Framework
 - [NodeJs](https://nodejs.org/en/) - Server Environment
 
-## ✍️ Authors <a name = "authors"></a>
+## ✍️ Autores <a name = "autores"></a>
 - [@kylelobo](https://github.com/kylelobo) - Ideia & Trabalho inicial
 
 Confira também a lista de [contribuidores](https://github.com/kylelobo/The-Documentation-Compendium/contributors) que participaram nesse projeto.
