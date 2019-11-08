@@ -104,7 +104,7 @@ Even if for some reason they have to use it, without good documentation, they wo
 11. [Google Developer Documentation Style Guide](https://developers.google.com/style/) - Google
 12. [README Maturity Model](https://github.com/LappleApple/feedmereadmes/blob/master/README-maturity-model.md) - LappleApple
 13. [Markdown Style Guide](http://www.cirosantilli.com/markdown-style-guide/) - Ciro Santilli
-
+14. [I'd Rather Be Writing - A Blog for Technical Writers](https://idratherbewriting.com/)
 
 ## Get Feedback <a name = "feedback"></a>
 
