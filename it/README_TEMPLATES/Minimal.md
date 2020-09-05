@@ -11,7 +11,7 @@
 
 Scrivi circa 1-2 paragrafi descrivendo lo scopo del tuo progetto.
 
-## Getting Started <a name = "getting_started"></a>
+## Come Iniziare <a name = "getting_started"></a>
 
 Queste istruzioni ti daranno una copia del progetto funzionante sul tuo computer locale per scopi di sviluppo e testing. Vedi [deployment](#deployment) per istruzioni su come deployare il progetto.
 
