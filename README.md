@@ -69,15 +69,6 @@ Even if for some reason they have to use it, without good documentation, they wo
 - Don't clutter explanations with overly detailed examples
 - Don't use terms that are offensive to any group. There will never be a good reason to
 
-## The Art of Technical Writing <a name = "art"></a>
-
-Further reading on technical writing topics from [www.writethedocs.org](https://www.writethedocs.org)
-
-- [Novice Technical Writers](https://www.writethedocs.org/guide/#new-to-caring-about-documentation)
-- [Experienced Technical Writers](https://www.writethedocs.org/guide/#experienced-documentarian)
-- [API Documentation](https://www.writethedocs.org/guide/#api-documentation)
-- [Adding badges](https://github.com/badges/shields/blob/master/README.md#examples)
-- [Tools](https://www.writethedocs.org/guide/#tools-of-the-trade)
 
 ## Templates <a name = "templates"></a>
 
@@ -90,6 +81,17 @@ Further reading on technical writing topics from [www.writethedocs.org](https://
 - [Codebase Structure](/en/CODEBASE_STRUCTURE.md)
 - [Changelog](/en/CHANGELOG.md)
 - [TODO](/en/TODO.md)
+
+
+## The Art of Technical Writing <a name = "art"></a>
+
+Further reading on technical writing topics from [www.writethedocs.org](https://www.writethedocs.org)
+
+- [Novice Technical Writers](https://www.writethedocs.org/guide/#new-to-caring-about-documentation)
+- [Experienced Technical Writers](https://www.writethedocs.org/guide/#experienced-documentarian)
+- [API Documentation](https://www.writethedocs.org/guide/#api-documentation)
+- [Adding badges](https://github.com/badges/shields/blob/master/README.md#examples)
+- [Tools](https://www.writethedocs.org/guide/#tools-of-the-trade)
 
 
 ## Technical Writing Programs <a name = "programs"></a>
