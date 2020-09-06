@@ -5,13 +5,13 @@
 <h3 align="center">The Documentation Compendium</h3>
 
 <div align="center">
-  
+
   [![Tweet](https://img.shields.io/twitter/url/https/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=%F0%9F%93%A2%20Various%20README%20templates%20and%20tips%20on%20writing%20high-quality%20documentation%20that%20people%20want%20to%20read.&url=https://github.com/kylelobo/The-Documentation-Compendium)
   [![Status](https://img.shields.io/badge/status-active-success.svg)]()
   [![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
   [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
   [![License](https://img.shields.io/badge/license-CC0-blue.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-  
+
 <!--   <a href="https://www.producthunt.com/posts/the-documentation-compendium?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-the-documentation-compendium" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=157965&theme=dark&period=daily" alt="The Documentation Compendium - Beautiful README templates that people want to read. | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a> -->
 
 </div>
@@ -26,7 +26,7 @@
 - [Why must you document your project](#why_document)
 - [Best Practices](#best_practices)
 - [Templates](#templates)
-- The Art of Technical Writing
+- [The Art of Technical Writing](#art)
   - [Novice Technical Writers](https://www.writethedocs.org/guide/#new-to-caring-about-documentation)
   - [Experienced Technical Writers](https://www.writethedocs.org/guide/#experienced-documentarian)
   - [API Documentation](https://www.writethedocs.org/guide/#api-documentation)
@@ -81,7 +81,18 @@ Even if for some reason they have to use it, without good documentation, they wo
 - [Codebase Structure](/en/CODEBASE_STRUCTURE.md)
 - [Changelog](/en/CHANGELOG.md)
 - [TODO](/en/TODO.md)
-  
+
+
+## The Art of Technical Writing <a name = "art"></a>
+
+Further reading on technical writing topics from [www.writethedocs.org](https://www.writethedocs.org)
+
+- [Novice Technical Writers](https://www.writethedocs.org/guide/#new-to-caring-about-documentation)
+- [Experienced Technical Writers](https://www.writethedocs.org/guide/#experienced-documentarian)
+- [API Documentation](https://www.writethedocs.org/guide/#api-documentation)
+- [Adding badges](https://github.com/badges/shields/blob/master/README.md#examples)
+- [Tools](https://www.writethedocs.org/guide/#tools-of-the-trade)
+
 
 ## Technical Writing Programs <a name = "programs"></a>
 
