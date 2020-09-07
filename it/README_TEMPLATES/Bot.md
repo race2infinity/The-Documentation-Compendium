@@ -21,7 +21,7 @@
     <br> 
 </p>
 
-## 📝 Table of Contents
+## 📝 Indice
 
 - [Descrizione](#about)
 - [Demo / Funzionamento](#demo)

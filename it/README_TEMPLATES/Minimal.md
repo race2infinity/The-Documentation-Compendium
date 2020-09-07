@@ -5,7 +5,7 @@
 - [Descrizione](#about)
 - [Come Iniziare](#getting_started)
 - [Utilizzo](#usage)
-- [Contributing](../CONTRIBUTING.md)
+- [Contribuire](../CONTRIBUTING.md)
 
 ## Descrizione <a name = "about"></a>
 
