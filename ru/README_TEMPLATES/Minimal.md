@@ -2,18 +2,18 @@
 
 ## Оглавление
 
-- [About](#about)
-- [Getting Started](#getting_started)
+- [О проекте](#about)
+- [Начало работы](#getting_started)
 - [Применение](#usage)
-- [Contributing](../CONTRIBUTING.md)
+- [Участие](../CONTRIBUTING.md)
 
-## About <a name="about"></a>
+## <a name="about">О проекте</a>
 
 Напишите примерно 1-2 абзаца, описывающих цель вашего проекта.
 
-## Getting Started <a name="getting_started"></a>
+## <a name="getting_started">Начало работы</a>
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+Эти инструкции позволят вам запустить копию проекта на локальном компьютере в целях разработки и тестирования. К ак развернуть проект в действующей системе описано в разделе [Развертывание](#deployment).
 
 ### Предпосылки
 
