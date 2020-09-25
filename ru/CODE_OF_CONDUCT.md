@@ -2,7 +2,7 @@
 
 ## Наше обещание
 
-In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+В интересах создания открытой и доброжелательной среды мы, как участники и сопровождающие, обязуемся сделать участие в нашем проекте и нашем сообществе свободным от преследований для всех, независимо от возраста, размера тела, инвалидности, этнической принадлежности, половых характеристик, гендерной идентичности, самовыражение, уровеня опыта, образования, социально-экономического статус, национальности, внешнего вида, расы, религии или сексуальной идентичности и ориентации.
 
 ## Наши стандарты
 
@@ -40,6 +40,9 @@ In the interest of fostering an open and welcoming environment, we as contributo
 
 ## Атрибуция
 
-This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 1.4, available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
+Этот Кодекс поведения адаптирован из [Соглашения для авторов], версия 1.4, доступного по адресу https://www.contributor-covenant.org/version/1/4/code-of-conduct.html.
 
-For answers to common questions about this code of conduct, see https://www.contributor-covenant.org/faq
+Ответы на распространенные вопросы об этом кодексе поведения см. https://www.contributor-covenant.org/faq.
+
+
+[Соглашения для авторов]: https://www.contributor-covenant.org
