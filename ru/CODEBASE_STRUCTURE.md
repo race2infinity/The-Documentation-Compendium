@@ -1,12 +1,12 @@
 Это каталоги, которые мы активно используем в разработке:
 
-- [frontend/server/controllers](https://github.com/kylelobo/The-Documentation-Compendium/tree/master/frontend/server/controllers): The controllers do the business logic and expose the server API.
-- [frontend/server/libs](https://github.com/The-Documentation-Compendium/tree/master/frontend/server/libs): Libraries and utilities.
-- [frontend/server/libs/dao](https://github.com/The-Documentation-Compendium/tree/master/frontend/server/libs/dao): Data Access Objects [DAO] and Value Objects [VO]. Classes used to represent database schemes and facilitate their use by the controllers.
-- [frontend/templates](https://github.com/The-Documentation-Compendium/tree/master/frontend/templates): Smarty templates used to generate the HTML that is displayed to users.
-- [frontend/www](https://github.com/The-Documentation-Compendium/tree/master/frontend/www): The complete contents of the Internet page.
+- [frontend/server/controllers](https://github.com/kylelobo/The-Documentation-Compendium/tree/master/frontend/server/controllers): Контроллеры выполняют бизнес-логику и предоставляют серверный API.
+- [frontend/server/libs](https://github.com/The-Documentation-Compendium/tree/master/frontend/server/libs): Библиотеки и утилиты.
+- [frontend/server/libs/dao](https://github.com/The-Documentation-Compendium/tree/master/frontend/server/libs/dao): Data Access Objects [DAO] и Value Objects [VO]. Классы, используемые для представления схем базы данных и облегчения их использования контроллерами.
+- [frontend/templates](https://github.com/The-Documentation-Compendium/tree/master/frontend/templates): Шаблоны  Smarty для создания HTML-кода, который отображается пользователям.
+- [frontend/www](https://github.com/The-Documentation-Compendium/tree/master/frontend/www): Полное содержание Интернет-страницы.
 
-### frontend / www
+### Фронтенд / www
 
 Содержание:
 
@@ -19,23 +19,23 @@
 
 #### css
 
-Similar to js, here are the minified css files.
+Как и в случае с js, тут уменьшенные файлы css.
 
-### frontend / server
+### Фронтенд / сервер
 
 Содержание:
 
 - dao /
 - контроллеры /
 
-None of these modules should be accessible to the outside world. The only one that can call them is the user interface. That's why they're under the www folder.
+Ни один из этих модулей не должен быть доступен внешнему миру. Единственное, что может их вызвать — это пользовательский интерфейс. Вот почему они находятся в папке www.
 
 #### DAO / VO
 
-The *dao* folder contains the classes for the data access layer. It has 2 things to know: *data access objects* and *value objects*. The *value objects* (VO) are nothing much but classes that are mapped directly to each of the tables in the database. Therefore, there is a class in there called Users, since there is a table with the same name. This class has its setters and getters for each of the fields in the database. The *data access objects* (dao) are static classes for each of the tables, and they serve to obtain and make the objects persistent *vo*.
+Папка *dao* содержит классы для уровня доступа к данным. Он должен знать 2 вещи: *data access objects* и *value objects*. *Value objects*(VO) — это не что иное, как классы, которые сопоставляются непосредственно с каждой таблицей в базе данных. Поэтому там есть как класс под названием Users, так и таблица с тем же именем. Этот класс имеет свои сеттеры и геттеры для каждого поля в базе данных. *&nbsp;Data access objects*(dao) — являются статическими классами для каждой из таблиц, они служат для получения и создания постоянных объектов *vo*.
 
 [Вот больше информации об этой модели](http://www.ibm.com/developerworks/java/library/j-dao/)
 
 #### Контроллеры
 
-The controllers are where the decisions are made. The controller uses the dao's and vo's to make decisions, and never call the database directly. This way, we avoid having separate controllers for each module of the project.
+Контроллеры — это то место, где принимаются решения. Контроллер использует dao и vo для принятия решений и никогда не вызывает базу данных напрямую. Таким образом, мы избегаем использования отдельных контроллеров для каждого модуля проекта.
