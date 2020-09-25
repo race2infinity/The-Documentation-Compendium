@@ -16,23 +16,23 @@
 
 ## 📝 Содержание
 
-- [About](#about)
-- [Getting Started](#getting_started)
+- [О проекте](#about)
+- [Начало работы](#getting_started)
 - [Развертывание](#deployment)
 - [Применение](#usage)
 - [Построен с использованием](#built_using)
-- [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
+- [To Do](../TODO.md)
+- [Участие](../CONTRIBUTING.md)
 - [Авторы](#authors)
 - [Благодарности](#acknowledgement)
 
-## 🧐 About <a name="about"></a>
+## 🧐 <a name="about">о проекте</a>
 
 Напишите примерно 1-2 абзаца, описывающих цель вашего проекта.
 
 ## 🏁 Начало работы<a name="getting_started"></a>
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+Эти инструкции позволят вам запустить копию проекта на локальном компьютере в целях разработки и тестирования. К ак развернуть проект в действующей системе описано в разделе [Развертывание](#deployment).
 
 ### Предпосылки
 
@@ -72,7 +72,7 @@ until finished
 Give an example
 ```
 
-### And coding style tests
+### И тесты стиля кода
 
 Объясните, что проверяют эти тесты и почему
 
@@ -90,19 +90,19 @@ Give an example
 
 ## ⛏️ Построен с использованием<a name="built_using"></a>
 
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
+- [MongoDB](https://www.mongodb.com/) — База данных
+- [Express](https://expressjs.com/) — Серверная структура
+- [VueJs](https://vuejs.org/) — Веб-фреймворк
+- [NodeJs](https://nodejs.org/en/) — Серверная среда
 
 ## ✍️ Авторы<a name="authors"></a>
 
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
+- [@kylelobo](https://github.com/kylelobo) — Идея и начальная работа
 
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
+Список [участников](https://github.com/kylelobo/The-Documentation-Compendium/contributors), работавших в этом проекте.
 
 ## 🎉 Благодарности<a name="acknowledgement"></a>
 
-- Hat tip to anyone whose code was used
+- Спасибо всем, чей код использовался
 - Вдохновение
 - Ссылки
