@@ -16,19 +16,19 @@
 
 ## 📝 Содержание
 
-- [About](#about)
-- [Demo / Working](#demo)
+- [О боте](#about)
+- [Демо/Работа](#demo)
 - [Как это устроено](#working)
 - [Применение](#usage)
-- [Getting Started](#getting_started)
+- [Начало работы](#getting_started)
 - [Развертывание собственного бота](#deployment)
 - [Построен с использованием](#built_using)
-- [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
+- [To Do](../TODO.md)
+- [Участие](../CONTRIBUTING.md)
 - [Авторы](#authors)
 - [Благодарности](#acknowledgement)
 
-## 🧐 About <a name="about"></a>
+## 🧐 <a name="about">О боте</a>
 
 Напишите примерно 1-2 абзаца, описывающих назначение вашего бота.
 
@@ -40,7 +40,7 @@
 
 Бот сначала извлекает слово из комментария, а затем извлекает определения слова, часть речи, пример и источник из Oxford Dictionary API.
 
-If the word does not exist in the Oxford Dictionary, the Oxford API then returns a 404 response upon which the bot then tries to fetch results form the Urban Dictionary API.
+Если этого слова нет в Оксфордском словаре, Oxford API возвращает ответ 404, после чего бот пытается получить результаты из API Urban Dictionary.
 
 Бот использует Pushshift API для получения комментариев, модуль PRAW для ответа на комментарии и Heroku в качестве сервера.
 
@@ -54,13 +54,13 @@ If the word does not exist in the Oxford Dictionary, the Oxford API then returns
 !dict word
 ```
 
-The first part, i.e. "!dict" **is not** case sensitive.
+Первая часть, т.е. "!dict", **не** чувствительна к регистру.
 
-The bot will then give you the Oxford Dictionary (or Urban Dictionary; if the word does not exist in the Oxford Dictionary) definition of the word as a comment reply.
+Затем бот предоставит вам определение слова в Оксфордском словаре (или Urban Dictionary, если слово не существует в Оксфордском словаре) в качестве ответа на комментарий.
 
 ### Пример:
 
-> !dict what is love
+> !dict что такое любовь
 
 **Определение:**
 
@@ -68,7 +68,7 @@ The bot will then give you the Oxford Dictionary (or Urban Dictionary; if the wo
 
 **Пример:**
 
-Dude1: Bruh, what is love? Dude2: Baby, dont hurt me, dont hurt me- no more! Dude1: dafuq?
+Чувак1: Бро, что такое любовь? Чувак2: Детка, не делай мне больно, не больно мне больше! Чувай1: Чего?
 
 **Источник:** https://www.urbandictionary.com/define.php?term=what%20is%20love.
 
@@ -76,11 +76,11 @@ Dude1: Bruh, what is love? Dude2: Baby, dont hurt me, dont hurt me- no more! Dud
 
 <sup>Бип-буп. Я бот. Если есть какие-либо вопросы, свяжитесь с моим <a href="https://www.reddit.com/message/compose/?to=PositivePlayer1&subject=/u/Wordbook_Bot">Мастером</a></sup>
 
-<sup>Want to make a similar reddit bot? Check out: <a href="https://github.com/kylelobo/Reddit-Bot">GitHub</a></sup>
+<sup>Хотите сделать похожего бота на Reddit? Проверьте: <a href="https://github.com/kylelobo/Reddit-Bot">GitHub</a></sup>
 
 ## 🏁 Начало работы<a name="getting_started"></a>
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+Эти инструкции позволят вам запустить копию проекта на локальном компьютере в целях разработки и тестирования. К ак развернуть проект в действующей системе описано в разделе [Развертывание](#deployment).
 
 ### Предпосылки
 
@@ -116,17 +116,17 @@ until finished
 
 ## ⛏️ Построен с использованием<a name="built_using"></a>
 
-- [PRAW](https://praw.readthedocs.io/en/latest/) - Python Reddit API Wrapper
-- [Heroku](https://www.heroku.com/) - SaaS hosting platform
+- [PRAW](https://praw.readthedocs.io/en/latest/) — Python Reddit API Wrapper
+- [Heroku](https://www.heroku.com/) —хостинговая платформа SaaS
 
 ## ✍️ Авторы<a name="authors"></a>
 
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
+- [@kylelobo](https://github.com/kylelobo) — Идея и начальная работа
 
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
+Список [участников](https://github.com/kylelobo/The-Documentation-Compendium/contributors), работавших в этом проекте.
 
 ## 🎉 Благодарности<a name="acknowledgement"></a>
 
-- Hat tip to anyone whose code was used
+- Спасибо всем, чей код использовался
 - Вдохновение
 - Ссылки
