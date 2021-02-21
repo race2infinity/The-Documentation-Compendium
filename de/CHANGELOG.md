@@ -2,8 +2,8 @@
 Alle bemerkenswerten Änderungen an diesem Projekt werden in dieser Datei 
 dokumentiert.
  
-Das Format basiert auf [Führe ein Changelog] (https://keepachangelog.com/de/)
-und dieses Projekt folgt [Semantic Versioning] (https://semver.org/lang/de/).
+Das Format basiert auf [Führe ein Changelog](https://keepachangelog.com/de/)
+und dieses Projekt folgt [Semantic Versioning](https://semver.org/lang/de/).
  
 ## [Releasenummer] - jjjj-mm-tt
  
