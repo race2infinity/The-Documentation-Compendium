@@ -1,4 +1,4 @@
-# Leitfaden zur Mitwirkung
+# Richtlinien für Beiträge
 
 - An "The Documentation Compendium" mit zu wirken ist ziemlich einfach. Dieses 
 Dokument zeigt die ersten Schritte
