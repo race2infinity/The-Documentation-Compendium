@@ -52,7 +52,7 @@ Give examples
 Give the example
 ```
 
-И повторить
+И повторите
 
 ```
 until finished
