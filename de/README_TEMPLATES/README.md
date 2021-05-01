@@ -1,4 +1,4 @@
-### This folder contains various README Templates that one can use based on the type of project.
+### Dieser Ordner enthält verschiedene README-Vorlagen, die je nach Projekttyp verwendet werden können.
 
 1. [Bot.md](/README%20Templates/Bot.md) - 
 2. [Hackathon.md](/README%20Templates/Hackathon.md) - 

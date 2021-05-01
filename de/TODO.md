@@ -2,5 +2,7 @@
 
 ---
 
-- [ ] переводить шаблоны
+- [x] Erledigte Anpassung
+- [ ] Geplante Anpassungen ...
+- [ ] Geplante Anpassungen ...
 
