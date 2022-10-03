@@ -1,4 +1,4 @@
-### This folder contains various README Templates that one can use based on the type of project.
+### 这个文件夹包括了一些README的模板，可根据你的项目类型选择。
 
 1. [Bot.md](/README%20Templates/Bot.md) - 
 2. [Hackathon.md](/README%20Templates/Hackathon.md) - 
