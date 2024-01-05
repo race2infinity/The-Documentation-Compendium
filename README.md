@@ -115,6 +115,7 @@ Further reading on technical writing topics from [www.writethedocs.org](https://
 11. [Google Developer Documentation Style Guide](https://developers.google.com/style/) - Google
 12. [README Maturity Model](https://github.com/LappleApple/feedmereadmes/blob/master/README-maturity-model.md) - LappleApple
 13. [Markdown Style Guide](http://www.cirosantilli.com/markdown-style-guide/) - Ciro Santilli
+14. [Software Technical Writing: A Guidebook](https://jamesg.blog/book.pdf) - James Gallagher
 
 
 ## Get Feedback <a name = "feedback"></a>
