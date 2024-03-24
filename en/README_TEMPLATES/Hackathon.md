@@ -37,63 +37,57 @@ It is useful to design and follow a specific format when writing a problem state
 for doing this, the following is a simple and straightforward template often used in Business Analysis to maintain
 focus on defining the problem.
 
-- IDEAL: This section is used to describe the desired or “to be” state of the process or product. At large, this section 
-should illustrate what the expected environment would look like once the solution is implemented.
-- REALITY: This section is used to describe the current or “as is” state of the process or product. 
-- CONSEQUENCES: This section is used to describe the impacts on the business if the problem is not fixed or improved upon.
-This includes costs associated with loss of money, time, productivity, competitive advantage, and so forth.
-
-Following this format will result in a workable document that can be used to understand the problem and elicit
-requirements that will lead to a winning solution. 
+- IDEAL: This extension would allow people to enter info about what kind of email they are trying to write and recieve an AI generated text that resembles an email in the style of ECE Department members.
+- REALITY: This extension allows people to enter info about what kind of email they are trying to write and recieve an AI generated text that resembles an email in the style of Nanccy (the Assistant to the ECE Department) and our team member Atika.
+- CONSEQUENCES: The overall function of the extension is still able to write emails based on our prompts, however the range of styles are more limited, which could affect how many people find this useful.
 
 ## 💡 Idea / Solution <a name = "idea"></a>
-This section is used to describe potential solutions. 
+Our idea was for there to be an easy way to immediately have written emails in specific styles.
 
-Once the ideal, reality, and consequences sections have been 
-completed, and understood, it becomes easier to provide a solution for solving the problem.
+The solution became making an extension that utilizes Gemini AI and emails that we fed into it to be able to generate these emails through Chrome.
 
 ## ⛓️ Dependencies / Limitations <a name = "limitations"></a>
-- What are the dependencies of your project?
-- Describe each limitation in detailed but concise terms
-- Explain why each limitation exists
-- Provide the reasons why each limitation could not be overcome using the method(s) chosen to acquire.
-- Assess the impact of each limitation in relation to the overall findings and conclusions of your project, and if 
-appropriate, describe how these limitations could point to the need for further research.
+We did not have enough data to make styles for Dr. Polikar or other ECE faculty members. This affected the amount of styles we were able to implement.
 
 ## 🚀 Future Scope <a name = "future_scope"></a>
-Write about what you could not develop during the course of the Hackathon; and about what your project can achieve 
-in the future.
+Given enough data, we could create far more styles of emails meant to match the personalities of other people's emails.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
-These instructions will get you a copy of the project up and running on your local machine for development 
-and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+To run Persona AI locally, follow these steps:
 
 ### Prerequisites
 
-What things you need to install the software and how to install them.
+- Google Chrome Browser
 
-```
-Give examples
-```
+- Node.js and npm installed
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running.
+1. Clone the repository:
 
-Say what the step will be
+   ```
+   git clone https://github.com/skywolfmo/personaai
+   ```
 
-```
-Give the example
-```
+2. Navigate to the project directory and install dependencies:
 
-And repeat
+   ```
+   npm install
+   ```
+3. Build the project:
 
-```
-until finished
-```
+   ```
+   npm run build
+   ```
 
 ## 🎈 Usage <a name="usage"></a>
-Add notes about how to use the system.
+To use the AI functionality of the Persona AI Chrome extension, you will need to obtain an API key from the Gemini Pro website by Google. Here's a brief summary of how to get the API key:
+
+1. Visit the Gemini Pro API website: [Google Gemini Pro API](https://makersuite.google.com/app/apikey).
+2. Follow the instructions to register and create an API key.
+3. Once you have the API key, enter it into the top of Persona AI extension and click on Save API Key, this will save it in the local storage.
+
+This API key is essential for enabling the AI features in the extension. Make sure to keep it secure and follow Google's guidelines for API usage.
 
 ## ⛏️ Built With <a name = "tech_stack"></a>
 - [MongoDB](https://www.mongodb.com/) - Database
@@ -102,12 +96,16 @@ Add notes about how to use the system.
 - [NodeJs](https://nodejs.org/en/) - Server Environment
 
 ## ✍️ Authors <a name = "authors"></a>
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
+- [@Atik666](https://github.com/Atik666) - Idea & Initial work
+- [@LeannamJ](https://github.com/LeannamJ) - Idea & Initial work
+- [@raduli92](https://github.com/raduli92) - Idea & Initial work
+- [@skywolfmo](https://github.com/skywolfmo) - Idea & Initial work
 
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) 
+See also the list of [contributors](https://github.com/skywolfmo/The-Documentation-Compendium/contributors) 
 who participated in this project.
 
 ## 🎉 Acknowledgments <a name = "acknowledgments"></a>
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
+- Google's Gemini Pro API for providing AI capabilities.
+- We used Bard and ChatGPT to guide us through the process of creating this extension
+- All contributors who have helped shape Persona AI.
+- https://github.com/kylelobo/The-Documentation-Compendium
