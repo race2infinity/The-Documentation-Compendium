@@ -6,10 +6,10 @@
 
 <div align="center">
 
-  [![Tweet](https://img.shields.io/twitter/url/https/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=%F0%9F%93%A2%20Various%20README%20templates%20and%20tips%20on%20writing%20high-quality%20documentation%20that%20people%20want%20to%20read.&url=https://github.com/kylelobo/The-Documentation-Compendium)
+  [![Tweet](https://img.shields.io/twitter/url/https/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=%F0%9F%93%A2%20Various%20README%20templates%20and%20tips%20on%20writing%20high-quality%20documentation%20that%20people%20want%20to%20read.&url=https://github.com/race2infinity/The-Documentation-Compendium)
   [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-  [![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
-  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
+  [![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/race2infinity/The-Documentation-Compendium/issues)
+  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/race2infinity/The-Documentation-Compendium/pulls)
   [![License](https://img.shields.io/badge/license-CC0-blue.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 <!--   <a href="https://www.producthunt.com/posts/the-documentation-compendium?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-the-documentation-compendium" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=157965&theme=dark&period=daily" alt="The Documentation Compendium - Beautiful README templates that people want to read. | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a> -->
@@ -132,8 +132,8 @@ Further reading on technical writing topics from [www.writethedocs.org](https://
 
 ## P.S. <a name = "ps"></a>
 
-- This repo is under active development. If you have any improvements / suggestions please file an [issue](https://github.com/kylelobo/The-Documentation-Compendium/issues/new/choose) or send in a [Pull Request](/en/CONTRIBUTING.md)
-- The [issues](https://github.com/kylelobo/The-Documentation-Compendium/issues) page is a good place to visit if you want to pick up some task. It has a list of things that are to be implemented in the near future
+- This repo is under active development. If you have any improvements / suggestions please file an [issue](https://github.com/race2infinity/The-Documentation-Compendium/issues/new/choose) or send in a [Pull Request](/en/CONTRIBUTING.md)
+- The [issues](https://github.com/race2infinity/The-Documentation-Compendium/issues) page is a good place to visit if you want to pick up some task. It has a list of things that are to be implemented in the near future
 
 
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
@@ -144,7 +144,7 @@ Further reading on technical writing topics from [www.writethedocs.org](https://
   <br />
   To the extent possible under law,
   <a rel="dct:publisher"
-     href="https://github.com/kylelobo/">
+     href="https://github.com/race2infinity/">
     <span property="dct:title">Kyle Lobo</span></a>
   has waived all copyright and related or neighboring rights to
   <span property="dct:title">The Documentation Compendium</span>.
