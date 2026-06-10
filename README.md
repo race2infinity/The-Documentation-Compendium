@@ -16,7 +16,7 @@
 
 </div>
 
----
+- --
 
 <p align = "center">💡 Various templates & tips on writing high-quality documentation that people want to read.</p>
 
@@ -51,7 +51,7 @@ Even if for some reason they have to use it, without good documentation, they wo
 
 ## Best Practices<a name = "best_practices"></a>
 
-**Things to remember:**
+* *Things to remember:**
 
 - Keep a lighthearted friendly tone. Treat the reader as someone who doesn't have a lot of knowledge about the topic but is very interested
 - Keep things brief
@@ -62,7 +62,7 @@ Even if for some reason they have to use it, without good documentation, they wo
 - It is always good to describe the functionality of the various files in your project
 - Always use gender-neutral pronouns. A gender-neutral pronoun is a pronoun which does not associate a gender with the individual who is being discussed. For eg. - using 'they' instead of 'he/she'
 
-**Things you should avoid:**
+* *Things you should avoid:**
 
 - Don't assume prior knowledge about the topic. If you want to appeal to a large audience, then you are going to have people with very diverse backgrounds
 - Don't use idioms. Write using more formal terms that are well defined. This makes it easier for non-native English speakers and for translations to be written
